@@ -1,4 +1,4 @@
-# McKBotSourceDocuments
+# McKBot Source Documents
 
 ## PDF Documents:
 1. Mckinsey on Finance.pdf
@@ -8,4 +8,6 @@
 5. McKinsey on Organization CHROs and talent management.pdf
 6. Technology Trends Outlook 2023.pdf
 
-##
+## Youtube Videos:
+1. Spendscape by McKinsey – Turning spend data into opportunity
+2. 
